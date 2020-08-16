@@ -1,5 +1,7 @@
 ### Hi, I'm David 👋
 
+<img width=256 align="right" src="https://avatars3.githubusercontent.com/u/6871112?s=460&u=da4484808c5fdbb277ef0fe9280161f2b4423956&v=4" />
+
 Soy backend developer aunque dentro de mi hay un pequeño SysAdmin. Me encata investigar, probar y aprender todo lo que pueda. Uno de mis mayores hobbies es posicionar paginas webs y estar al día en SEO.
 
 
