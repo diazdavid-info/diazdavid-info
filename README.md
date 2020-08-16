@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi, I'm David 👋
 
+Soy backend developer aunque dentro de mi hay un pequeño SysAdmin. Me encata investigar, probar y aprender todo lo que pueda. Uno de mis mayores hobbies es posicionar paginas webs y estar al día en SEO.
 <!--
 **diazdavid-info/diazdavid-info** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
