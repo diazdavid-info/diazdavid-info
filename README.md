@@ -7,7 +7,7 @@ Soy backend developer aunque dentro de mi hay un pequeño SysAdmin. Me encata in
 
 
 - 🔨 Actualmente trabajo en coches.com como **backend developer** y asumiento el rol de **tech lead**
-- 🎭 En este momento estoy mejorando mucho mi **skin de SRE** pero sin dejar de lado mi **skin dev**
+- 🎭 En este momento estoy mejorando mucho mi **skill de SRE** pero sin dejar de lado mi **skill dev**
 - 👷‍♂️ Trabajo sobre todo con **php** y **js** pero me estoy aficionando a **go**
 - 🐳 En mi local siempre estará **docker**
 - 👨‍🏫 Disfruto mucho dando **meetups**
